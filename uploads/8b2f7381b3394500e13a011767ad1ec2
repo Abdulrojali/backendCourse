@@ -1,0 +1,11 @@
+mongodb://localhost:27017/belajar
+  
+
+1. run mongodb 
+sudo systemctl start mongod 
+
+2. test connect 
+mongosh
+
+3. cek status mongodb 
+sudo systemctl status mongod
